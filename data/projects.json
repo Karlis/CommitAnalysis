@@ -1,0 +1,57 @@
+{
+    "junit":{
+        "project_dir":"/Users/klukstins/dev/University/projects/junit",
+        "module":"",
+        "alfa_hash":"0a9a389570a171b67c3155d312f2e90bdab5aaaf",
+        "omega_hash":"8a63df4c826ea1f0faae0d50958c330dd88d3651",
+        "churn": {
+            "added_coef": 0.9112,
+            "removed_coef": 0.9775,
+            "adjusment_coef": -3.2463
+        }
+    },
+    "storm":{
+        "project_dir":"/Users/klukstins/dev/University/projects/storm",
+        "module":"",
+        "alfa_hash":"81f888e7d54ea10d5b02df843aae154862c69e26",
+        "omega_hash":"bb8562f4f19dd04cbc941a4c32ed4cdb392f17a0",
+        "churn": {
+            "added_coef": 0.9949,
+            "removed_coef": 0.1225,
+            "adjusment_coef": 8.2527
+        }
+    },
+    "spring":{
+        "project_dir":"/Users/klukstins/dev/University/projects/spring",
+        "module":"spring-core/src",
+        "alfa_hash":"e0c7571a41adb0d21e95ac16d72d1f792aa4bdd6",
+        "omega_hash":"5d4ed4efe5598aa966b658bfbface0419d1f676c",
+        "churn": {
+            "added_coef": 0.9721,
+            "removed_coef": 0.9474,
+            "adjusment_coef": -8.2584
+        }
+    },
+    "elasticsearch":{
+        "project_dir":"/Users/klukstins/dev/University/projects/elasticsearch",
+        "module":"src",
+        "alfa_hash":"30075bb6f977ac2c4279e87a1b44a08e07ccd70b",
+        "omega_hash":"bf19dc699ad3bf73b70fdec815e40ac1f5f6a21f",
+        "churn": {
+            "added_coef": 0.2746,
+            "removed_coef": 0.8962,
+            "adjusment_coef": 0.9241
+        }
+    },
+    "eclipse":{
+        "project_dir":"/Users/klukstins/dev/University/projects/eclipse",
+        "module":"org.eclipse.jdt.core",
+        "alfa_hash":"feb469be2ad91987262f94d747dca34c598d919d",
+        "omega_hash":"2d053de9651cebac3cf0a82f4012b7196ccb5c83",
+        "churn": {
+            "added_coef": 0.9538,
+            "removed_coef": 0.3304,
+            "adjusment_coef": 4.7246
+        }
+    }
+}
